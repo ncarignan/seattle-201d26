@@ -5,13 +5,13 @@
 
 This first day of class is an all-day session with the students that is mostly lecture.
 
-- [Kickoff!](#kickoff) *[30 minutes]*
+- [Kickoff!](#kickoff) *[60 minutes]*
 - [Individual Introductions](#academic) *[30 minutes]*
 - [Academic Overview](#academic) *[30 minutes]*
-- [Unix & Git](#ug) *[60 minutes]*
-- [Go over the assigned readings](#readings) *[30 minutes]*
+- [Unix & Git](#ug) *[30 minutes]*
+- [Begin going over the assigned readings](#readings) *[30 minutes]*
 
-*Lunch Break*
+*Lunch Break; we will resume in the Grace Hopper Classroom after the break*
 
 - [Continuing going over the assigned readings](#readings) *[30 minutes]*
 - [Code demo to prep for lab](#code) *[60-90 minutes]*
