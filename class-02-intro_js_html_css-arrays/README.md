@@ -7,10 +7,11 @@
 
 #### Class Roadmap for Today
 
-*No code review today; we will start doing code reviews tomorrow. Expect lecture to go to about 12:15 today, as it will most days. We'll take 2 breaks during that time, then you'll have the entire afternoon in lab.*
+*Expect lecture to go to about 12:15 today, as it will most days. We'll take 2 breaks during that time, then you'll have the entire afternoon in lab.*
 
-- [Topics from HTML readings](#html) *[30 minutes]*
-- [Topics from CSS readings](#css) *[30 minutes]*
+- Code Review [30 minutes]
+- [Topics from HTML readings](#html) *[20 minutes]*
+- [Topics from CSS readings](#css) *[20 minutes]*
 - *10 minute break*
 - [Topics from JS readings, and linter setup](#js) *[45 minutes]*
 - *10 minute break*
