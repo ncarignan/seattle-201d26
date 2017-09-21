@@ -1,7 +1,7 @@
 // September 21
 // Functions demo
 
-// 'use strict';
+'use strict';
 
 //WHAT IS A FUNCTION?
 // Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements). (Duckett, p.88)
@@ -38,7 +38,7 @@ function clue(who, where, weapon) {
 }
 
 // Called with three arguments
-// clue('Brandon', 'bathroom', 'CSS');
+clue('Brandon', 'bathroom', 'CSS');
 
 // We can also call this in the console with different arguments.
 
