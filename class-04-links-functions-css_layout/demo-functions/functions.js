@@ -50,7 +50,7 @@ var murderer = 'Col Mustard';
 var crimeScene = 'library';
 var toolOfDeath = 'candlestick';
 //
-// clue(murderer, crimeScene, toolOfDeath);
+clue(murderer, crimeScene, toolOfDeath);
 
 // ++++++++++++++++++++++++++++++++++++++++
 
